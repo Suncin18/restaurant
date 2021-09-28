@@ -437,12 +437,23 @@ html{
 
     /* Header */
     .header_inferior h1{
-        font-size: 60px;
+        font-size: 52px;
     }
 
     /* Menú */
     .category_container h3{
         font-size: 20px;
+    }
+
+    /* Feedback */
+    .pic_container img{
+        width: 84px;
+    }
+    .card h3{
+        font-size: 23px;
+    }
+    .card p{
+        font-size: 15px;
     }
 }
 
