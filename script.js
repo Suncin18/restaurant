@@ -3,6 +3,7 @@ const btnFilter = document.querySelectorAll('.btnJS');
 const menuItem = document.querySelectorAll('.menu_items');
 const menu = document.querySelector('.div_menu');
 
+alert(window.screen.width);
 // Botón del nav
 document.addEventListener('click', (e)=>{
     if(e.target.closest('#nav-menu')){
