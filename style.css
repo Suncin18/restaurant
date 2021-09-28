@@ -387,7 +387,7 @@ html{
         margin: 20px 10%;
     }
     .header_inferior h1{
-        font-size: 70px;
+        font-size: 64px;
     }
 
     /* Menú */
@@ -407,6 +407,11 @@ html{
     .item_info :nth-child(2){
         margin-left: 15px;
         /* margin-right: 0px; */
+    }
+
+    /* Feedback */
+    .card p{
+        font-size: 15px;
     }
 
     /* About */
@@ -467,7 +472,7 @@ html{
 
     /* Header */
     .header_inferior h1{
-        font-size: 45px;
+        font-size: 39px;
     }
 
     /* Menú */
@@ -484,6 +489,9 @@ html{
     }
     .pic_container img{
         width: 45px;
+    }
+    .card p{
+        font-size: 15px;
     }
 
     /* About */
